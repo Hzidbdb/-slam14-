@@ -1,11 +1,14 @@
 我的slam学习均基于ubuntu系统，请先安装Ubuntu虚拟机或系统再学习
 
-本节讲述了slam中如何用Newton—guass法进行拟合优化
-一切的前置：cmake，c/c++，vscode
+**本节讲述了slam中如何用Newton—guass法进行拟合优化
+**一切的前置：cmake，c/c++，vscode
+
 安装cmake：
 ctrl+Alt+t打开终端执行：
 sudo apt install cmake
+
 1.先安装必须的依赖与软件
+
 (1).opencv的安装
 打开终端然后执行：
  sudo install libopencv-dev python3-opencv
