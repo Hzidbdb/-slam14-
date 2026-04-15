@@ -1,6 +1,7 @@
 我的slam学习均基于ubuntu系统，请先安装Ubuntu虚拟机或系统再学习
 
 **本节讲述了slam中如何用Newton—guass法进行拟合优化
+
 **一切的前置：cmake，c/c++，vscode
 
 安装cmake：
